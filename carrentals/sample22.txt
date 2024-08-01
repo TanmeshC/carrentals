@@ -1,0 +1,13 @@
+
+ --------------------------------------------------------
+NAME:- Tanmesh
+AGE:- 18
+CONTACT NO.:- 7654321890
+EMAIL ID:- tanmesh@gmail.com
+ADDRESS:- RSCOE
+START DATE:- 25/02/24
+END DATE:- 03/03/2024
+VEHICLE TYPE:- SUV
+TAKEN ON RENT FOR DAYS:- 9
+CURRENT TIME:- 09:14:19
+  --------------------------------------------------------
